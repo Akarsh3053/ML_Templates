@@ -6,10 +6,12 @@ All these projects are curated from ML practice problems and various resources I
 
 ## Collection
 
+- Adult Salary Prediction
+
 ## Setup
 
 - Clone the repository and start working with any of the templates from the collection.
 
-````bash
+```bash
 git clone https://github.com/Akarsh3053/ML_Templates
-````
+```
