@@ -7,6 +7,9 @@ All these projects are curated from ML practice problems and various resources I
 ## Collection
 
 - Adult Salary Prediction
+- Bitcoin Price Pridiction
+- House Price Pridiction Detailed Analysis
+- Income Classification
 
 ## Setup
 
