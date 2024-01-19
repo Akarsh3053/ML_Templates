@@ -11,6 +11,7 @@ All these projects are curated from ML practice problems and various resources I
 - House Price Pridiction Detailed Analysis
 - Income Classification
 - Heart Disease Pridiction
+- Gold Price Prediction
 
 ## Setup
 
