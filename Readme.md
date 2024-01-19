@@ -10,6 +10,7 @@ All these projects are curated from ML practice problems and various resources I
 - Bitcoin Price Pridiction
 - House Price Pridiction Detailed Analysis
 - Income Classification
+- Heart Disease Pridiction
 
 ## Setup
 
