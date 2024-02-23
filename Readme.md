@@ -6,13 +6,13 @@ All these projects are curated from ML practice problems and various resources I
 
 ## Collection
 
-- Adult Salary Prediction
-- Bitcoin Price Pridiction
-- House Price Pridiction Detailed Analysis
-- Income Classification
-- Heart Disease Pridiction
-- Gold Price Prediction
 - FIFA Data Analysis
+- Income Classification
+- Gold Price Prediction
+- Adult Salary Prediction
+- Heart Disease Prediction
+- Bitcoin Price Prediction
+- House Price Prediction Detailed Analysis
 
 ## Setup
 
@@ -20,4 +20,10 @@ All these projects are curated from ML practice problems and various resources I
 
 ```bash
 git clone https://github.com/Akarsh3053/ML_Templates
+```
+
+- Move to desired directory and launch jupyter notebook from terminal.
+
+```bash
+jupyter notebook
 ```
