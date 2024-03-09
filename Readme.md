@@ -11,7 +11,6 @@ All these projects are curated from ML practice problems and various resources I
 - Gold Price Prediction
 - Adult Salary Prediction
 - Heart Disease Prediction
-- Bitcoin Price Prediction
 - House Price Prediction Detailed Analysis
 
 ## Setup
