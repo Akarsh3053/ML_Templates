@@ -13,6 +13,7 @@ All these projects are curated from ML practice problems and various resources I
 - Heart Disease Prediction
 - House Price Prediction Detailed Analysis
 - IPL Data Analysis
+- Tesla Car Price Prediction
 
 ## Setup
 
