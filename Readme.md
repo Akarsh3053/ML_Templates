@@ -12,6 +12,7 @@ All these projects are curated from ML practice problems and various resources I
 - Adult Salary Prediction
 - Heart Disease Prediction
 - House Price Prediction Detailed Analysis
+- IPL Data Analysis
 
 ## Setup
 
