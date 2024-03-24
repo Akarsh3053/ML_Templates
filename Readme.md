@@ -14,6 +14,7 @@ All these projects are curated from ML practice problems and various resources I
 - House Price Prediction Detailed Analysis
 - IPL Data Analysis
 - Tesla Car Price Prediction
+- Marketing Campaign Result Prediction
 
 ## Setup
 
