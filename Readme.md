@@ -15,6 +15,7 @@ All these projects are curated from ML practice problems and various resources I
 - IPL Data Analysis
 - Tesla Car Price Prediction
 - Marketing Campaign Result Prediction
+- Customer Segmentation
 
 ## Setup
 
