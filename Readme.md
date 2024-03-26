@@ -16,6 +16,7 @@ All these projects are curated from ML practice problems and various resources I
 - Tesla Car Price Prediction
 - Marketing Campaign Result Prediction
 - Customer Segmentation
+- Sentiment Analysis - Restaurant Reviews
 
 ## Setup
 
