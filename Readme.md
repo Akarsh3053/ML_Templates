@@ -8,13 +8,9 @@ All these projects are curated from ML practice problems and various resources I
 
 - FIFA Data Analysis
 - Income Classification
-- Gold Price Prediction
-- Adult Salary Prediction
 - Heart Disease Prediction
 - House Price Prediction Detailed Analysis
 - IPL Data Analysis
-- Tesla Car Price Prediction
-- Marketing Campaign Result Prediction
 - Customer Segmentation
 - Sentiment Analysis - Restaurant Reviews
 
