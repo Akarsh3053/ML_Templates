@@ -8,7 +8,6 @@ All these projects are curated from ML practice problems and various resources I
 
 - FIFA Data Analysis
 - Income Classification
-- Heart Disease Prediction
 - House Price Prediction Detailed Analysis
 - IPL Data Analysis
 - Customer Segmentation
